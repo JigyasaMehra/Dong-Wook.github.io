@@ -9,7 +9,6 @@
   font-weight: bolder;
   font-style: normal;
   text-decoration: underline;
-  //text-shadow: 2px 2px 1px black;
 }
 
 .logo{
@@ -23,7 +22,7 @@
   box-shadow: 0 1px 2px rgba(0,0,0,0.9);
 }
 .navbar-brand{
-  margin-left: 20px;
+  margin-left: 3px;
   text-shadow: 2px 2px 1px black;
   font-size: 30px;
   color: white;
@@ -81,11 +80,9 @@
 .T{
   font-size: 100px;
   font-family: 'Lora', serif;
-  //font-family: 'Cinzel', serif;
   font-style: normal;
   text-decoration: none;
   color: #C2DED1;
-  //color: white;
   text-shadow: 3px 3px 0px black;
 }
 h2{
@@ -110,7 +107,7 @@ h2{
   font-size: 70px;
   color: white;
   text-shadow: 3px 4px 1px black;
-    font-family: 'Poiret One', cursive;
+  font-family: 'Poiret One', cursive;
   font-style: normal;
   font-weight: bold;
 }
@@ -171,7 +168,6 @@ footer{
 .video{
   width: 100%;
   padding-top: 40px;
-  //margin-top: 20px;
   background-color: black;
 }
 .tyhvideo{
@@ -188,7 +184,6 @@ footer{
   transform: translate(-70% -70%);
   background: rgba(255, 255, 255, 0.8);
   box-shadow: 0 20px 30px rgba(0,0,0,0.9);
-  //width: 1000px;
 }
 .end{
   transform: translate(-70% -70%);
