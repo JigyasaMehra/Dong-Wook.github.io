@@ -102,7 +102,8 @@ h2{
 }
 .genre{
   background-image: url(romantic.jpg);
-  background-repeat: repeat;
+  background-repeat: repeat-y;
+  background-size: 100%;
   text-decoration: none;
 }
 .Thriller{
